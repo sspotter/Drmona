@@ -1,0 +1,54 @@
+/* Add styles for document cards */
+.document-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .document-card {
+    border: 1px solid #800000a2;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #970404cc;
+    box-shadow: 0px 4px 6px rgba(116, 8, 8, 0.541);
+    width: calc(33.33% - 20px);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .document-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Add more styles as needed */
+  
+  .file-input {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .file-input.dragging {
+    background-color: #063c8d;
+    border-color: #aaa;
+  }
+  .selected {
+    background-color: #063c8d;
+    border-color: #aaa;
+  }
+  
+  .document-details {
+    margin-top: 20px;
+  }
+  
+  .selected-card {
+    border: 1px solid #06b65e;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #7d07a1;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+  }
+  
