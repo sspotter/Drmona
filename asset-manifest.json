@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Drmona/static/css/main.fea490c8.css",
+    "main.js": "/Drmona/static/js/main.333f0586.js",
+    "static/media/tripguide.png": "/Drmona/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/Drmona/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/Drmona/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/Drmona/static/media/jobit.755da7149642fd049273.png",
+    "static/media/web.png": "/Drmona/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/Drmona/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/Drmona/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/Drmona/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/Drmona/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/Drmona/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/close.svg": "/Drmona/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/logo.svg": "/Drmona/static/media/logo.a14e08da817ed339d3849bc81037592d.svg",
+    "static/media/menu.svg": "/Drmona/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "index.html": "/Drmona/index.html",
+    "static/media/threejs.svg": "/Drmona/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "main.fea490c8.css.map": "/Drmona/static/css/main.fea490c8.css.map",
+    "main.333f0586.js.map": "/Drmona/static/js/main.333f0586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea490c8.css",
+    "static/js/main.333f0586.js"
+  ]
+}
